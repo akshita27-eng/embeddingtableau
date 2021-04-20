@@ -1,8 +1,6 @@
 console.log("I am here!");
 let viz;
-var workbook, activeSheet;
 const containerDiv = document.getElementById("vizContainer");
-
 const btn = document.getElementById("btn");
 const showBtn = document.getElementById("showBtn");
 const exportPDF = document.getElementById("exportPDF");
